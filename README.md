@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zwornik
-- 🌱 I’m currently learning to code in Python
+- 🌱 I currently learn to code in Python
 
 <!---
 Zwornik/Zwornik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
