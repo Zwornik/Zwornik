@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Zwornik
-- 🌱 I currently learn to code in Python
+- 👋 Hi, I’m Marcin Kruszelnicki
+- 🌱 I study on Northumbria University Skills Bootcamp in Software Development in BIM (with Microsoft Certification) [IoCN14].
+- I learn to code in Python and 
 
 <!---
 Zwornik/Zwornik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
